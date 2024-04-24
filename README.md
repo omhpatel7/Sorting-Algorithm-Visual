@@ -21,13 +21,13 @@ This is a sorting visualizer tool built with [Python](https://www.python.org/) a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/omhpatel7/Sorting-Algorithm-Visual.git
+   $ git clone https://github.com/omhpatel7/Sorting-Algorithm-Visual.git
 
-   cd sorting-algorithm-visual
+   $ cd sorting-algorithm-visual
 
-   pip install pygame numpy
+   $ pip install pygame numpy
 
-   python main.py
+   $ python main.py
    ```
 
 ## Contributing
